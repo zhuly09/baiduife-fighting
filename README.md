@@ -28,4 +28,9 @@
 ## 学习资源
 - [baidu-ife热身任务](http://ife.baidu.com/static/warmup.html)
 
+## 代码规范
+- [baidu前端规范](https://github.com/ecomfe/spec)
+- [baidu前端代码检查工具](http://fecs.baidu.com/demo)
+
+
 
