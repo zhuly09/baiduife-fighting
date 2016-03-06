@@ -28,6 +28,10 @@
 
 ## 学习资源
 - [baidu-ife热身任务](http://ife.baidu.com/static/warmup.html)
+- [git工作流](https://github.com/xirong/my-git/blob/master/git-workflow-tutorial.md)
+- [git团队合作](http://xiaocong.github.io/blog/2013/03/20/team-collaboration-with-github/)
+- [git pull request](http://www.worldhello.net/gotgithub/04-work-with-others/010-fork-and-pull.html)
+- [js](http://javascript.ruanyifeng.com)
 
 ## 代码规范
 
