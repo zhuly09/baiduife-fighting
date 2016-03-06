@@ -1,10 +1,13 @@
-# baiduife-fighting
+# baiduife-BIAS
+
+*BIAS*， Brain is another sexy
 
 ## 团队成员
 
 - [zhuly09](https://github.com/zhuly09)
 - [StreamBottle](https://github.com/StreamBottle)
 - [helloljq](https://github.com/helloljq)
+- [xunko](https://github.com/xunko)
 
 ## 任务描述
 
