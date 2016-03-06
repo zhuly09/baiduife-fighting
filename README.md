@@ -8,6 +8,7 @@
 - [StreamBottle](https://github.com/StreamBottle)
 - [helloljq](https://github.com/helloljq)
 - [xunko](https://github.com/xunko)
+- [rnkb01](https://github.com/rnkb01)
 
 ## 任务描述
 
@@ -29,6 +30,10 @@
 - [baidu-ife热身任务](http://ife.baidu.com/static/warmup.html)
 
 ## 代码规范
+
+代码必须满足baidu前端规范，添加必要注释，使用baidu前端检查语法工具检查通过后，
+方可提交（注意解决冲突）
+
 - [baidu前端规范](https://github.com/ecomfe/spec)
 - [baidu前端代码检查工具](http://fecs.baidu.com/demo)
 
