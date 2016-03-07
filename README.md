@@ -4,11 +4,17 @@
 
 ## 团队成员
 
+<<<<<<< HEAD
 - [zhuly09](https://github.com/zhuly09)
 - [StreamBottle](https://github.com/StreamBottle)
 - [helloljq](https://github.com/helloljq) QQ:415078378 Mail:laijianqing@gmail.com
 - [xunko](https://github.com/xunko) QQ:776310560 Mail:xunko@qq.com
 - [rnkb01](https://github.com/rnkb01)
+=======
+- zhuly09
+- BUCKETHEAD
+- helloljq
+>>>>>>> 5a4a5a5dbf07b72fa1948171d7177d4e522a0228
 
 ## 任务描述
 
