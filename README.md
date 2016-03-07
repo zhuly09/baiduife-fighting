@@ -5,7 +5,7 @@
 ## 团队成员
 
 - [zhuly09](https://github.com/zhuly09)
-- [StreamBottle](https://github.com/StreamBottle)
+- [StreamBottle](https://github.com/StreamBottle) QQ:455606899 Mail:youshiku@yeah.net
 - [helloljq](https://github.com/helloljq)
 - [xunko](https://github.com/xunko)
 - [rnkb01](https://github.com/rnkb01)
