@@ -7,7 +7,7 @@
 - [zhuly09](https://github.com/zhuly09)
 - [StreamBottle](https://github.com/StreamBottle)
 - [helloljq](https://github.com/helloljq)
-- [xunko](https://github.com/xunko)
+- [xunko](https://github.com/xunko) QQ:776310560 Mail:xunko@qq.com
 - [rnkb01](https://github.com/rnkb01)
 
 ## 任务描述
