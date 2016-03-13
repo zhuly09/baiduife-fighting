@@ -1,30 +1,36 @@
-article[character='juliet'] {
-    voice-family: "Vivien Leigh", victoria, female;
+/*  GENERAL SETTINGS */
+* {
+    margin: 0;
+    padding: 0;
 }
 
-/*  GENERAL SETTINGS */
-* {margin: 0; padding: 0;}
+p {
+    line-height: 160%;
+}
 
-p {line-height: 160%;}
+a {
+    text-decoration: none;
+    color: #fff;
+}
 
-a {text-decoration: none; color: #fff; transition: all 0.1s ease-in;}
-
-img {border: 0;}
+img {
+    border: 0;
+}
 
 body {
     background: #fff;
     color: #fff;
-    font-family: 'PT Sans Narrow', sans-serif;
+    font-family: "PT Sans Narrow", sans-serif;
     font-size: 16px;
     font-weight: 300;
 }
 
 @font-face {
-    font-family: 'norwester';
-    src: url('../fonts/norwester/norwester.eot');
-    src: url('../fonts/norwester/norwester.eot?iefix') format('embedded-opentype'),
-         url('../fonts/norwester/norwester.ttf');
-    font-weight: normal;
+    font-family: "norwester";
+    src: url(../fonts/norwester/norwester.eot);
+    src: url(../fonts/norwester/norwester.eot?iefix) format("embedded-opentype"),
+         url(../fonts/norwester/norwester.ttf);
+    font-weight: 400;
 }
 
 #team {
@@ -36,15 +42,15 @@ body {
 #team p {
     padding: 20px 0 60px;
     color: #4593e3;
-    font-family: 'Open Sans', sans-serif;
+    font-family: "Open Sans", sans-serif;
     font-size: 36px;
-    letter-spacing: 0.2px;
+    letter-spacing: .2px;
 }
 
 #team h3 {
     color: #4593e3;
     padding: 0 0 15px;
-    font-family: 'norwester';
+    font-family: "norwester";
     font-size: 60px;
     text-transform: uppercase;
 }
@@ -59,7 +65,7 @@ body {
 
 #members h3 {
     padding: 0 0 15px;
-    font-family: 'norwester';
+    font-family: "norwester";
     font-size: 32px;
     text-transform: uppercase;
 }
@@ -72,20 +78,19 @@ body {
 }
 
 #members img {
-    /*width: 200px;*/
-    width: 100%;
-    /*height: 200px;*/
+    width: 200px;
+    /*width: 100%;*/
+    height: 200px;
     max-width: 240px;
     border-radius: 50%;
     border: 15px solid transparent;
-    /*box-shadow: 2px 2px 0px rgba(0,0,0, 0.18);*/
-    transition: all 0.1s ease-in;
+    box-shadow: 2px 2px 0 rgba(0, 0, 0, 0.18);
 }
 
 #footer p {
     padding: 20px 0;
-    color: black;
-    font-family: 'Open Sans', sans-serif;
+    color: #000;
+    font-family: "Open Sans", sans-serif;
 }
 
 /* Button setting */
@@ -93,17 +98,18 @@ body {
     display: inline-block;
     margin-top: 20px;
     padding: 10px 40px;
-    colr: rgba(255,255,255, 0.95);
+    colr: rgba(255, 255, 255, 0.95);
     font-size: 18px;
     font-weight: 700;
     text-transform: uppercase;
     border: none;
     border-radius: 20px;
     outline: 0;
-    transition: all 0.1s ease-in;
 }
 
-.btn-transparent {background: rgba(0,0,0, 0.2);}
+.btn-transparent {
+    background: rgba(0, 0, 0, 0.2);
+}
 
 /* Container Optimization */
 .container {
@@ -125,7 +131,8 @@ body {
     /*display: none;*/
 /*}*/
 
-.row1 .col, .row1 .col {
+.row1 .col,
+.row1 .col {
     padding-bottom: 48px;
 }
 
