@@ -1,11 +1,94 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
     <title>BIAS - 团队介绍</title>
     <meta http-equiv="X-UA-Compatible" content="IE=Edge">
     <meta name="viewport" content="width=device-width,minimum-scale=1.0,maximum-scale=1.0">
+    <!-- Stylesheets -->
+    <link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
 <body>
+    <section id="team">
+        <div class="container">
+            <h3>BIAS</h3>
+            <!-- Desciption -->
+            <!-- <p>Brain Is Another Sexy</p> -->
+            <p>我们或许没有发达的肱二头肌，但我们有发达的大脑；我们或许没有撩人的腹肌，但我们有撩人的头脑；头脑、思考、改变世界，生活越来越美好</p>
+        </div>
+    </section>
+    <!-- SECTION -->
+    <section id="members">
+        <div class="container">
+            <!-- First Row of Members -->
+            <h3>Members</h3>
+            <div class="row1">
+                <!-- Member 1 -->
+                <div class="col">
+                    <a href="https://github.com/zhuly09">
+                        <img src="images/zhuly09.png" alt="" />
+                        <h4>zhuly09</h4>
+                    </a>
+                </div>
+
+                <!-- Member 2 -->
+                <div class="col">
+                    <a href="https://github.com/zhuly09">
+                        <img src="images/zhuly09.png" alt="" />
+                        <h4>zhuly09</h4>
+                    </a>
+                </div>
+            </div>
+
+            <!-- Second Row of Members -->
+            <div class="row2">
+                <!-- Member 3 -->
+                <div class="col">
+                    <a href="https://github.com/zhuly09">
+                        <img src="images/zhuly09.png" alt="" />
+                        <h4>zhuly09</h4>
+                    </a>
+                </div>
+
+                <!-- Member 4 -->
+                 <div class="col">
+                    <a href="https://github.com/zhuly09">
+                        <img src="images/zhuly09.png" alt="" />
+                        <h4>zhuly09</h4>
+                    </a>
+                </div>
+                <!-- Member 5 -->
+                <div class="col">
+                    <a href="https://github.com/zhuly09">
+                        <img src="images/zhuly09.png" alt="" />
+                        <h4>zhuly09</h4>
+                    </a>
+                </div>
+            </div>
+
+            <!-- view all button -->
+            <div>
+                <button class="btn btn-transparent fadeIn">View All</button>
+            </div>
+        </div>
+    </section>
+    <section id="footer">
+        <div class="container">
+            <p>© CopyRight BIAS 2016.</p>
+        </div>
+    </section>
+
+
+    <!-- javascript code  -->
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <script>
+        $(document).ready(function(){
+          $(".fadeIn").click(function(){
+            $("div.row2").fadeIn();
+            $("button.fadeIn").hide();
+          });
+        });
+    </script>
+
 </body>
 </html>
