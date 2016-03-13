@@ -8,9 +8,9 @@
 
 - [zhuly09](https://github.com/zhuly09) QQ:2925656316 Mail:zhuly09@gmail.com
 - [StreamBottle](https://github.com/StreamBottle) QQ:455606899 Mail:youshiku@yeah.net
-- [helloljq](https://github.com/helloljq)
+- [helloljq](https://github.com/helloljq) QQ:415078378 Mail:laijianqing@gmail.com
 - [xunko](https://github.com/xunko) QQ:776310560 Mail:xunko@qq.com
-- [rnkb01](https://github.com/rnkb01) QQ:415078378 Mail:laijianqing@gmail.com
+- [rnkb01](https://github.com/rnkb01)
 
 ## 任务描述
 
