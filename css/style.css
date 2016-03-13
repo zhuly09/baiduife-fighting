@@ -122,7 +122,7 @@ body {
 
 /* Rows Optimization */
 .row2 {
-    display: none;
+    /*display: none;*/
 }
 
 .row1 .col, .row1 .col {
