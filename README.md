@@ -2,6 +2,8 @@
 
 *BIAS*， Brain is another sexy
 
+展示主页：<http://zhuly09.github.io/baiduife-fighting/>
+
 ## 团队成员
 
 - [zhuly09](https://github.com/zhuly09) QQ:2925656316 Mail:zhuly09@gmail.com
