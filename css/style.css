@@ -121,9 +121,9 @@ body {
 }
 
 /* Rows Optimization */
-.row2 {
-    display: none;
-}
+/*.row2 {*/
+    /*display: none;*/
+/*}*/
 
 .row1 .col, .row1 .col {
     padding-bottom: 48px;
