@@ -1,0 +1,182 @@
+body {
+  font-family: "黑体";
+  font-size: 13px;
+  background-color: #DEDEDE;
+  margin: 0;
+  padding: 0;
+ }
+
+body>div {
+  float: left;
+  height: 80px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+body>div>img {
+  margin-left: 20px;
+  margin-top: 10px;
+}
+
+nav {
+  background-color: #333333;
+  height: 80px;
+}
+
+nav ul {
+  float: right;
+  list-style-type: none;
+  padding: 0;
+  margin-bottom: 30px;
+  margin-top: 30px;
+}
+
+nav ul li {
+  display: inline;
+  text-align: center;
+  color: #000;
+}
+
+nav ul li a {
+  color: #FFF;
+  text-decoration: none;
+}
+
+nav ul li a:hover {
+  color: #808080;
+}
+
+article {
+  background-color: #FFF;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  padding-left: 25px;
+  padding-right: 25px;
+  box-shadow: 3px 3px #808080;
+}
+
+img {
+  width:100%;
+  max-width:300px;
+}
+
+article figure {
+  display: inline-block;
+  border: 2px solid #000;
+}
+
+figure figcaption {
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+figure img {
+  width: 100%;
+  margin: 20px;
+  max-width: 240px;
+}
+
+table {
+  width: 100%;
+  text-align: left;
+  border-collapse: collapse;
+  font-size: 12px;
+}
+
+.tablehead {
+  background-color: #333333;
+  color: #FFF;
+}
+
+.tabletail {
+  background: lightgray;
+}
+
+
+aside {
+  background-color: #FFF;
+  margin-top: 50px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  padding: 25px;
+  box-shadow: 3px 3px #999999;
+}
+aside h1 {
+  border-left: 3px solid #CBCBCB;
+  padding-right: 20px;
+  padding-left: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+aside h2 {
+  display: none;
+}
+
+aside form {
+  font-size: 13px;
+  width:100%;
+  vertical-align: top;
+}
+
+aside form div {
+  margin: 10px;
+}
+
+aside form p {
+  color: #DEDEDE;
+}
+
+.col1 {
+  display: inline-block;
+  text-align:right;
+  width:30%;
+  margin:0;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  vertical-align:top;
+}
+
+
+.col2 {
+  display: inline-block;
+  text-align: left;
+  width: 50%;
+  margin:0;
+  vertical-align:top;
+}
+
+.col2 textarea {
+  width: 100%;
+}
+
+
+div button {
+  background-color: #3355D0;
+  color: #FFF;
+  border-radius: 15px;
+  width: 100%;
+  height: 50px;
+  margin: 10px;
+}
+
+
+
+footer {
+  background-color: #000;
+  height: 85px;
+  margin: 0;
+  text-align: center;
+}
+
+footer p {
+  color: #FFF;
+  display: inline-block;
+  margin: 40px;
+}
