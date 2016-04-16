@@ -9,15 +9,23 @@ window.onload = function () {
     var list = document.getElementById('list');
 
     leftIn.onclick = function () {
-        var li = document.createElement('li');
-        li.innerHTML = text.value;
-        list.insertBefore(li, list.firstChild);
+        if (text.value) {
+            var li = document.createElement('li');
+            li.innerHTML = text.value;
+            list.insertBefore(li, list.firstChild);
+        } else {
+            alert('Please input some number');
+        }
     };
 
     rightIn.onclick = function () {
-        var li = document.createElement('li');
-        li.innerHTML = text.value;
-        list.appendChild(li);
+        if (text.value) {
+            var li = document.createElement('li');
+            li.innerHTML = text.value;
+            list.appendChild(li);
+        } else {
+            alert('Please input some number');
+        }
     };
 
     leftOut.onclick = function () {

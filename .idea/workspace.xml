@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6801e41d-5062-46ef-a442-8d983537a20f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/task18/css.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/task18/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/task18/js.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/task18/index.html" afterPath="$PROJECT_DIR$/task18/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/task18/js.js" afterPath="$PROJECT_DIR$/task18/js.js" />
     </list>
     <ignored path="baiduife-fighting.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,11 +25,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/task18/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
-              <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+              <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -46,11 +45,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="js.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="js.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/task18/js.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+            <state relative-caret-position="345">
+              <caret line="23" column="31" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -80,8 +79,8 @@
         <option value="$PROJECT_DIR$/task10/index.html" />
         <option value="$PROJECT_DIR$/task10/css.css" />
         <option value="$PROJECT_DIR$/task18/css.css" />
-        <option value="$PROJECT_DIR$/task18/index.html" />
         <option value="$PROJECT_DIR$/task18/js.js" />
+        <option value="$PROJECT_DIR$/task18/index.html" />
       </list>
     </option>
   </component>
@@ -249,12 +248,12 @@
       <workItem from="1459666451451" duration="20553000" />
       <workItem from="1459772830641" duration="1402000" />
       <workItem from="1459819194343" duration="16000" />
-      <workItem from="1460778877621" duration="4869000" />
+      <workItem from="1460778877621" duration="5892000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44779000" />
+    <option name="totallyTimeSpent" value="45802000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="767" y="23" width="1387" height="877" extended-state="0" />
@@ -469,18 +468,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/task18/index.html">
+    <entry file="file://$PROJECT_DIR$/task18/js.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+        <state relative-caret-position="345">
+          <caret line="23" column="31" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/task18/js.js">
+    <entry file="file://$PROJECT_DIR$/task18/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+        <state relative-caret-position="255">
+          <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
           <folding />
         </state>
       </provider>
