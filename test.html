@@ -1,0 +1,38 @@
+<html>
+<body onload="detectLocation()">
+<!-- This html must be hosted on a server for navigator.geolocation callbacks to work -->
+
+<div id="status"></div>
+
+<script type="text/javascript">
+function detectLocation()
+{
+  log("detectLocation() starting");
+  if (navigator.geolocation)
+  {
+    log("navigator.geolocation is supported");
+    navigator.geolocation.getCurrentPosition(geocodePosition, onError, { timeout: 30000 });
+    navigator.geolocation.watchPosition(watchGeocodePosition);
+  }
+  else
+  {
+    log("navigator.geolocation not supported");
+  }
+}
+function geocodePosition(){
+    log("geocodePosition() starting");
+}
+
+function watchGeocodePosition(){
+    log("watchGeocodePosition() starting");
+}
+
+function onError(error){
+    log("error " + error.code);
+}
+function log(msg){
+    document.getElementById("status").innerHTML = new Date() + " :: " + msg + "<br/>" + document.getElementById("status").innerHTML;
+}
+</script>
+</body>
+</html>
